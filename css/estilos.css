@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  } 
+  
+  .video { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto; /* Añade margen automático a los lados para centrar horizontalmente */
+    margin-top: 15px;
+    border-radius: 15px;
+}
+.planetatierra{
+    border-radius: 8px;
+}
+.planetaneptuno{
+    border-radius: 8px;
+}
+.parrafo{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+.gif{
+    width: 48%;
+    height: 350px;
+    border-radius: 5px;
+}
+.titulo{
+    display: block;
+    text-align: center;
+    color: white;
+}
+.caja{
+    padding: 9px;
+    display: flex;
+    align-items: center;
+    color: white;
+    min-height: 100vh;
+    
+}
+
+.texto{
+    padding: 10px;
+}
+.fondo{
+    border-radius: 5px;
+    background-image: url(../assets/img/fondo.jpg);
+}
+
+/* Estilos para dispositivos móviles */
+
+/* Estilos generales para section */
+/* Estilos generales para section */
+
